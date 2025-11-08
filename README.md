@@ -1,24 +1,20 @@
-<!-- Template:
-[![Hackathons](https://img.shields.io/badge/Hackathons-80%2B-brightgreen?style=flat-square)](https://github.com/mlhacks)
-[![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
+<img src="https://avatars.githubusercontent.com/u/85209423?v=4" alt="Chau Nguyen" width="180" height="180" style="border-radius: 50%; margin-bottom: 10px;">
 
-## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+## Hi 👋
+I'm **Chau Nguyen**! I'm a student at the University of Cincinnati pursuing a Computer Science degree with a minor in Mathematics. I'm passionate about software engineering and solving complex problems. I love turning ideas into practical solutions and contributing to the tech community.
+Outside of coding, you can find me at hackathons, engaging with tech communities, or savoring a good cup of matcha.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+**Connect with me!**
+- 📧 Email: mchaung844@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaunguyen844/)
+- 💻 [Personal Portfolio](https://chaung844.github.io/chau_portfolio/)
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
-
-## Tech & Interests
-- 🧰 Languages: [Language 1], [Language 2], [Language 3]
-- 🔭 Focus: [Area of Focus 1], [Area of Focus 2]
-- ❤️ Interests: [Interest 1], [Interest 2], [Interest 3]
--->
+## Education and Experience 
+- **Education**: University of Cincinnati — Computer Science
+- **Experience**:
+	- Software Engineering Intern @ Wells Fargo *(June 2025 — August 2025)*
+	- Technology Intern @ Fidelity Investments *(June 2024 — August 2024)*
+    - Software Engineering Intern @ Kinetic Vision *(May 2023 — December 2023)*
 
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
 ---
